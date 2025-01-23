@@ -1,6 +1,6 @@
-# My Research Code
+# Objective
 
-This repository contains the code used for the research presented in [[Tensor neural networks for high-dimensional Fokker-Planck equations](https://arxiv.org/abs/2404.05615)].
+This repository contains the code used for the research presented in [Tensor neural networks for high-dimensional Fokker-Planck equations](https://arxiv.org/abs/2404.05615).
 
 ## Description
 
